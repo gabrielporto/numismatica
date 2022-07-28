@@ -1,378 +1,402 @@
 [
     {
-        "Key": "Solid",
-        "Value": "111"
+        "Numero": "094572075",
+        "Tipo": " DarkYellow Yellow Blue DarkMagenta DarkGray"
     },
     {
-        "Key": "Solid",
-        "Value": "111"
+        "Numero": "596042948",
+        "Tipo": " DarkYellow"
     },
     {
-        "Key": "LadderUp",
-        "Value": "123"
+        "Numero": "697354740",
+        "Tipo": " DarkRed"
     },
     {
-        "Key": "LadderDow",
-        "Value": "210"
+        "Numero": "608111011",
+        "Tipo": " DarkCyan Gray Black Black Yellow Yellow Cyan DarkGreen DarkRed DarkBlue Blue"
     },
     {
-        "Key": "Solid",
-        "Value": "222"
+        "Numero": "627932281",
+        "Tipo": " Blue Black DarkYellow Yellow DarkGreen Red Black"
     },
     {
-        "Key": "LadderUp",
-        "Value": "234"
+        "Numero": "025250322",
+        "Tipo": " Green Black Black Gray DarkCyan DarkGray DarkBlue Blue DarkBlue DarkMagenta"
     },
     {
-        "Key": "LadderDow",
-        "Value": "321"
+        "Numero": "501305441",
+        "Tipo": " Yellow DarkBlue"
     },
     {
-        "Key": "Solid",
-        "Value": "333"
+        "Numero": "913453448",
+        "Tipo": " Magenta DarkBlue Magenta Green Black DarkGray DarkYellow DarkBlue DarkGray DarkGreen Cyan DarkBlue"
     },
     {
-        "Key": "Solid",
-        "Value": "333"
+        "Numero": "389124245",
+        "Tipo": " Cyan Gray Black Cyan Cyan DarkGreen DarkGreen Green Magenta Green"
     },
     {
-        "Key": "LadderUp",
-        "Value": "345"
+        "Numero": "334208796",
+        "Tipo": " Blue Cyan Blue DarkBlue"
     },
     {
-        "Key": "LadderDow",
-        "Value": "432"
+        "Numero": "995835365",
+        "Tipo": " Gray DarkGreen Black DarkYellow DarkRed DarkGreen Magenta DarkGray DarkGray DarkMagenta Blue Magenta"
     },
     {
-        "Key": "Solid",
-        "Value": "444"
+        "Numero": "371399572",
+        "Tipo": " Green Black Red"
     },
     {
-        "Key": "LadderUp",
-        "Value": "456"
+        "Numero": "303256238",
+        "Tipo": " DarkGray DarkYellow"
     },
     {
-        "Key": "LadderDow",
-        "Value": "543"
+        "Numero": "256112591",
+        "Tipo": " DarkBlue DarkRed Blue Black Blue Magenta"
     },
     {
-        "Key": "Solid",
-        "Value": "555"
+        "Numero": "077285998",
+        "Tipo": " DarkGray DarkMagenta DarkGreen Black"
     },
     {
-        "Key": "LadderUp",
-        "Value": "567"
+        "Numero": "228169506",
+        "Tipo": " Cyan DarkRed DarkYellow Blue DarkBlue DarkBlue Magenta DarkYellow DarkGreen Cyan DarkGray"
     },
     {
-        "Key": "LadderDow",
-        "Value": "654"
+        "Numero": "095878547",
+        "Tipo": " Gray DarkBlue"
     },
     {
-        "Key": "Solid",
-        "Value": "666"
+        "Numero": "316622542",
+        "Tipo": " Black DarkBlue Black Cyan Blue Cyan Green Cyan Yellow Green"
     },
     {
-        "Key": "Solid",
-        "Value": "666"
+        "Numero": "280249626",
+        "Tipo": " DarkMagenta Green Yellow Blue Gray"
     },
     {
-        "Key": "LadderUp",
-        "Value": "678"
+        "Numero": "902096757",
+        "Tipo": " Black Magenta Yellow DarkMagenta DarkMagenta Magenta Green DarkCyan DarkCyan DarkBlue Magenta DarkGreen"
     },
     {
-        "Key": "LadderDow",
-        "Value": "765"
+        "Numero": "079599222",
+        "Tipo": " Gray Black DarkBlue DarkMagenta Gray Green Magenta"
     },
     {
-        "Key": "Solid",
-        "Value": "777"
+        "Numero": "289374333",
+        "Tipo": " Black DarkGray Blue DarkBlue DarkBlue"
     },
     {
-        "Key": "LadderUp",
-        "Value": "789"
+        "Numero": "131911058",
+        "Tipo": " DarkCyan Black DarkYellow DarkGray Green Cyan Green Yellow Yellow Gray DarkGray Green"
     },
     {
-        "Key": "LadderDow",
-        "Value": "876"
+        "Numero": "512269431",
+        "Tipo": " DarkBlue Cyan Yellow Magenta DarkCyan DarkBlue Magenta Blue Red Magenta Magenta Green"
     },
     {
-        "Key": "Solid",
-        "Value": "888"
+        "Numero": "284803818",
+        "Tipo": " DarkGreen DarkRed Gray Magenta"
     },
     {
-        "Key": "Solid",
-        "Value": "888"
+        "Numero": "698339089",
+        "Tipo": " DarkGreen Green DarkGreen Black Gray Cyan Gray"
     },
     {
-        "Key": "LadderDow",
-        "Value": "987"
+        "Numero": "072461594",
+        "Tipo": " Red Magenta Cyan"
     },
     {
-        "Key": "Solid",
-        "Value": "1111"
+        "Numero": "497653975",
+        "Tipo": " Gray DarkGreen DarkMagenta DarkBlue DarkGray Black Black DarkYellow Red DarkRed"
     },
     {
-        "Key": "Solid",
-        "Value": "1111"
+        "Numero": "593715884",
+        "Tipo": " Yellow Black Black Black"
     },
     {
-        "Key": "LadderUp",
-        "Value": "1234"
+        "Numero": "533728309",
+        "Tipo": " Green DarkGray Green Blue DarkGray Red DarkYellow DarkCyan"
     },
     {
-        "Key": "Solid",
-        "Value": "2222"
+        "Numero": "558090584",
+        "Tipo": " DarkCyan Yellow DarkCyan Red Red DarkGray DarkGreen Green"
     },
     {
-        "Key": "LadderUp",
-        "Value": "2345"
+        "Numero": "139339197",
+        "Tipo": " DarkBlue DarkMagenta Cyan DarkCyan Blue DarkYellow DarkRed DarkBlue DarkCyan"
     },
     {
-        "Key": "LadderDow",
-        "Value": "3210"
+        "Numero": "247749364",
+        "Tipo": " Blue DarkCyan DarkBlue DarkRed Black DarkYellow Cyan"
     },
     {
-        "Key": "Solid",
-        "Value": "3333"
+        "Numero": "359653970",
+        "Tipo": " Yellow DarkGray Cyan DarkBlue Magenta Gray DarkBlue Blue DarkMagenta"
     },
     {
-        "Key": "LadderUp",
-        "Value": "3456"
+        "Numero": "513649361",
+        "Tipo": " Yellow DarkYellow DarkYellow DarkGray DarkMagenta Magenta Black Magenta"
     },
     {
-        "Key": "LadderDow",
-        "Value": "4321"
+        "Numero": "193752262",
+        "Tipo": " Green DarkBlue DarkBlue"
     },
     {
-        "Key": "Solid",
-        "Value": "4444"
+        "Numero": "036964647",
+        "Tipo": " Yellow DarkGreen DarkCyan Yellow DarkGreen Red DarkBlue Black DarkMagenta"
     },
     {
-        "Key": "LadderUp",
-        "Value": "4567"
+        "Numero": "752010406",
+        "Tipo": " DarkBlue Cyan DarkYellow"
     },
     {
-        "Key": "LadderDow",
-        "Value": "5432"
+        "Numero": "812811050",
+        "Tipo": " Green Yellow Blue DarkMagenta Red DarkGreen Green"
     },
     {
-        "Key": "Solid",
-        "Value": "5555"
+        "Numero": "311129990",
+        "Tipo": " DarkRed DarkYellow Gray DarkYellow Blue DarkBlue Blue"
     },
     {
-        "Key": "LadderUp",
-        "Value": "5678"
+        "Numero": "405994852",
+        "Tipo": " Blue DarkRed DarkRed DarkGray Cyan Blue Blue Magenta DarkBlue DarkCyan Yellow"
     },
     {
-        "Key": "LadderDow",
-        "Value": "6543"
+        "Numero": "833142582",
+        "Tipo": " Yellow DarkCyan Red Gray"
     },
     {
-        "Key": "Solid",
-        "Value": "6666"
+        "Numero": "597634451",
+        "Tipo": " Green DarkCyan Yellow Blue DarkRed DarkGray DarkGray Black DarkCyan Cyan DarkRed"
     },
     {
-        "Key": "Solid",
-        "Value": "6666"
+        "Numero": "114775891",
+        "Tipo": " DarkGray"
     },
     {
-        "Key": "LadderUp",
-        "Value": "6789"
+        "Numero": "336881110",
+        "Tipo": " Black"
     },
     {
-        "Key": "LadderDow",
-        "Value": "7654"
+        "Numero": "295230083",
+        "Tipo": " DarkRed"
     },
     {
-        "Key": "Solid",
-        "Value": "7777"
+        "Numero": "431887931",
+        "Tipo": " Black DarkCyan DarkMagenta DarkMagenta DarkRed"
     },
     {
-        "Key": "Solid",
-        "Value": "7777"
+        "Numero": "921641099",
+        "Tipo": " DarkCyan DarkCyan Gray DarkRed"
     },
     {
-        "Key": "LadderDow",
-        "Value": "8765"
+        "Numero": "935854507",
+        "Tipo": " Green DarkMagenta Yellow Blue Magenta DarkRed Yellow"
     },
     {
-        "Key": "Solid",
-        "Value": "8888"
+        "Numero": "580794061",
+        "Tipo": " DarkGray DarkCyan Magenta Green Black"
     },
     {
-        "Key": "Solid",
-        "Value": "8888"
+        "Numero": "773713479",
+        "Tipo": " DarkRed Blue DarkMagenta DarkMagenta"
     },
     {
-        "Key": "LadderDow",
-        "Value": "9876"
+        "Numero": "307077254",
+        "Tipo": " DarkGreen DarkGreen Red Magenta DarkBlue DarkGreen DarkYellow DarkYellow Magenta Yellow"
     },
     {
-        "Key": "Solid",
-        "Value": "11111"
+        "Numero": "656339654",
+        "Tipo": " DarkRed DarkMagenta Black Red DarkMagenta Blue Magenta Magenta Red DarkCyan DarkMagenta"
     },
     {
-        "Key": "Solid",
-        "Value": "11111"
+        "Numero": "904975969",
+        "Tipo": " Black Red Red DarkYellow DarkGreen"
     },
     {
-        "Key": "LadderUp",
-        "Value": "12345"
+        "Numero": "969161789",
+        "Tipo": " DarkGray DarkGray DarkGray DarkMagenta DarkMagenta DarkGray Blue DarkGreen Red DarkGray DarkYellow DarkGray"
     },
     {
-        "Key": "Radar",
-        "Value": "000020000"
+        "Numero": "386367984",
+        "Tipo": " DarkRed Blue Green DarkGray DarkCyan DarkRed DarkGreen Red Red DarkMagenta Green"
     },
     {
-        "Key": "Radar",
-        "Value": "000020000"
+        "Numero": "961972965",
+        "Tipo": " Cyan Gray Green DarkGreen DarkYellow Green DarkYellow"
     },
     {
-        "Key": "Solid",
-        "Value": "22222"
+        "Numero": "912384603",
+        "Tipo": " Yellow DarkMagenta DarkCyan Cyan DarkMagenta DarkBlue DarkBlue DarkBlue Gray Cyan"
     },
     {
-        "Key": "Solid",
-        "Value": "22222"
+        "Numero": "194390892",
+        "Tipo": " DarkMagenta DarkGray DarkGray DarkGreen"
     },
     {
-        "Key": "LadderUp",
-        "Value": "23456"
+        "Numero": "880045794",
+        "Tipo": " DarkRed Magenta DarkMagenta DarkYellow Yellow Magenta DarkCyan Magenta Blue Cyan DarkBlue DarkGreen"
     },
     {
-        "Key": "Radar",
-        "Value": "000030000"
+        "Numero": "716596300",
+        "Tipo": " Black"
     },
     {
-        "Key": "LadderUp",
-        "Value": "34567"
+        "Numero": "549899178",
+        "Tipo": " Gray DarkRed DarkMagenta Cyan Cyan Red DarkMagenta"
     },
     {
-        "Key": "Radar",
-        "Value": "000040000"
+        "Numero": "711127998",
+        "Tipo": " DarkBlue Blue Gray DarkBlue Red DarkCyan"
     },
     {
-        "Key": "LadderDow",
-        "Value": "43210"
+        "Numero": "627716085",
+        "Tipo": " Magenta DarkCyan Red"
     },
     {
-        "Key": "Solid",
-        "Value": "44444"
+        "Numero": "625317122",
+        "Tipo": " DarkBlue DarkGreen DarkBlue DarkBlue Red Magenta Magenta Blue Magenta"
     },
     {
-        "Key": "LadderUp",
-        "Value": "45678"
+        "Numero": "752372070",
+        "Tipo": " Green Black"
     },
     {
-        "Key": "Radar",
-        "Value": "000050000"
+        "Numero": "721145523",
+        "Tipo": " Black"
     },
     {
-        "Key": "LadderDow",
-        "Value": "54321"
+        "Numero": "029521075",
+        "Tipo": " Yellow Black Red Yellow Magenta DarkRed DarkGray DarkRed DarkCyan Magenta DarkGray DarkGreen"
     },
     {
-        "Key": "Solid",
-        "Value": "55555"
+        "Numero": "686036843",
+        "Tipo": " DarkGray DarkCyan Gray Gray DarkRed DarkGray DarkBlue Magenta Gray Red Black Yellow"
     },
     {
-        "Key": "LadderUp",
-        "Value": "56789"
+        "Numero": "329625200",
+        "Tipo": " DarkGray"
     },
     {
-        "Key": "Radar",
-        "Value": "000060000"
+        "Numero": "225100168",
+        "Tipo": " Black Gray Green Magenta Blue Gray Cyan DarkBlue DarkRed"
     },
     {
-        "Key": "LadderDow",
-        "Value": "65432"
+        "Numero": "003941137",
+        "Tipo": " DarkGreen DarkRed"
     },
     {
-        "Key": "Radar",
-        "Value": "000070000"
+        "Numero": "871002108",
+        "Tipo": " DarkRed Black Black DarkRed Green DarkYellow DarkBlue DarkYellow Black"
     },
     {
-        "Key": "LadderDow",
-        "Value": "76543"
+        "Numero": "820649666",
+        "Tipo": " Blue DarkGray DarkCyan"
     },
     {
-        "Key": "Solid",
-        "Value": "77777"
+        "Numero": "358110035",
+        "Tipo": " Gray DarkCyan DarkBlue DarkRed Cyan Black DarkCyan Blue DarkYellow Black"
     },
     {
-        "Key": "Radar",
-        "Value": "000080000"
+        "Numero": "442433984",
+        "Tipo": " DarkCyan"
     },
     {
-        "Key": "Radar",
-        "Value": "000080000"
+        "Numero": "013268412",
+        "Tipo": " Gray Cyan DarkCyan Red DarkGreen Blue"
     },
     {
-        "Key": "LadderDow",
-        "Value": "87654"
+        "Numero": "152088231",
+        "Tipo": " DarkRed DarkGreen DarkGray Red Blue DarkCyan Red Red DarkMagenta Yellow"
     },
     {
-        "Key": "LadderDow",
-        "Value": "98765"
+        "Numero": "271538800",
+        "Tipo": " DarkRed Cyan Black DarkRed Black DarkMagenta DarkYellow"
     },
     {
-        "Key": "Solid",
-        "Value": "99999"
+        "Numero": "510003554",
+        "Tipo": " Black DarkGray Magenta"
     },
     {
-        "Key": "Solid",
-        "Value": "99999"
+        "Numero": "846951052",
+        "Tipo": " DarkYellow Cyan DarkYellow Yellow DarkGray Gray"
     },
     {
-        "Key": "Radar",
-        "Value": "000101000"
+        "Numero": "359805152",
+        "Tipo": " DarkMagenta DarkGreen Red"
     },
     {
-        "Key": "Radar",
-        "Value": "000111000"
+        "Numero": "538613005",
+        "Tipo": " DarkGray DarkRed Green DarkCyan DarkBlue DarkYellow"
     },
     {
-        "Key": "Radar",
-        "Value": "000111000"
+        "Numero": "076946094",
+        "Tipo": " DarkYellow"
     },
     {
-        "Key": "Radar",
-        "Value": "000121000"
+        "Numero": "774812228",
+        "Tipo": " Black DarkGray DarkBlue DarkCyan"
     },
     {
-        "Key": "LadderUp",
-        "Value": "123456"
+        "Numero": "574681356",
+        "Tipo": " DarkMagenta"
     },
     {
-        "Key": "Radar",
-        "Value": "000131000"
+        "Numero": "668790016",
+        "Tipo": " DarkYellow DarkRed DarkMagenta"
     },
     {
-        "Key": "Radar",
-        "Value": "000141000"
+        "Numero": "859698012",
+        "Tipo": " DarkGray DarkBlue"
     },
     {
-        "Key": "Radar",
-        "Value": "000151000"
+        "Numero": "809844814",
+        "Tipo": " DarkMagenta Black Gray DarkGreen DarkMagenta"
     },
     {
-        "Key": "Radar",
-        "Value": "000161000"
+        "Numero": "446746222",
+        "Tipo": " Yellow"
     },
     {
-        "Key": "Radar",
-        "Value": "000171000"
+        "Numero": "185292926",
+        "Tipo": " Gray"
     },
     {
-        "Key": "Radar",
-        "Value": "000181000"
+        "Numero": "707639681",
+        "Tipo": " DarkCyan Red Yellow DarkGray Blue DarkBlue Black DarkMagenta DarkGreen Gray"
     },
     {
-        "Key": "Radar",
-        "Value": "000191000"
+        "Numero": "102623085",
+        "Tipo": " Cyan DarkRed Magenta"
     },
     {
-        "Key": "Radar",
-        "Value": "000202000"
+        "Numero": "490167006",
+        "Tipo": " DarkRed Gray Magenta Green DarkGray Cyan DarkCyan"
+    },
+    {
+        "Numero": "661746747",
+        "Tipo": " Cyan DarkGray Black DarkYellow DarkGray Blue Yellow DarkMagenta DarkGreen Red Red DarkGreen"
+    },
+    {
+        "Numero": "714209156",
+        "Tipo": " DarkGray DarkGray DarkCyan DarkGreen DarkBlue DarkBlue DarkMagenta DarkBlue Gray Cyan"
+    },
+    {
+        "Numero": "260710771",
+        "Tipo": " Blue Yellow Black DarkGray Black Red Yellow Black DarkBlue DarkRed Green"
+    },
+    {
+        "Numero": "683504104",
+        "Tipo": " DarkCyan"
+    },
+    {
+        "Numero": "820693762",
+        "Tipo": " Red DarkMagenta Yellow"
+    },
+    {
+        "Numero": "607552853",
+        "Tipo": " DarkGreen Cyan Cyan DarkMagenta DarkYellow Black Black Red Green Blue"
     }
 ]
