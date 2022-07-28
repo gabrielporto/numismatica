@@ -1,0 +1,210 @@
+[
+    {
+        "Numero": "111",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "123",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "210",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "222",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "234",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "321",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "333",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "345",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "432",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "456",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "555",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "567",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "654",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "666",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "678",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "765",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "777",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "789",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "876",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "888",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "888",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "987",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "999",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "1111",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "1234",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "2222",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "2345",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "3210",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "3333",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "3456",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "4321",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "4444",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "4567",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "5432",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "5555",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "5678",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "6543",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "6666",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "6789",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "7777",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "8765",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "8888",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "9876",
+        "Tipo": "LadderDow"
+    },
+    {
+        "Numero": "9999",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "000010000",
+        "Tipo": "Radar"
+    },
+    {
+        "Numero": "11111",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "12345",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "000020000",
+        "Tipo": "Radar"
+    },
+    {
+        "Numero": "23456",
+        "Tipo": "LadderUp"
+    },
+    {
+        "Numero": "000030000",
+        "Tipo": "Radar"
+    },
+    {
+        "Numero": "33333",
+        "Tipo": "Solid"
+    },
+    {
+        "Numero": "34567",
+        "Tipo": "LadderUp"
+    }
+]

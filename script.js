@@ -1,21 +1,46 @@
-var data = null;
-var max = 999999999;
-var min = 0;
+/* Custom filtering function which will search data in column four between two values */
+$.fn.dataTable.ext.search.push(function (settings, data, dataIndex) {
+    var min = parseInt($('#min').val(), 10);
+    var max = parseInt($('#max').val(), 10);
+    var age = parseFloat(data[0]) || 0; // use data for the age column
 
+    if (
+        (isNaN(min) && isNaN(max)) ||
+        (isNaN(min) && age <= max) ||
+        (min <= age && isNaN(max)) ||
+        (min <= age && age <= max)
+    ) {
+        return true;
+    }
+    return false;
+});
 
-fetch("./test.json")
-    .then(response => {
-        return response.json();
-    })
-    .then(function (value) {
-        data = value;
-    });
+$(document).ready(function () {
+    fetch("./data.json?v1")
+        .then(response => {
+            return response.json();
+        })
+        .then(function (jsondata) {
+            generate_table(jsondata);
+        });
 
-function isBigEnough(data) {
-    return (data.Value >= min && data.Value <= max);
-}
+    function generate_table(jsondata) {
+        var table = $('#example').DataTable({
+            data: jsondata,
+            columns: [
+                {
+                    title: 'Numero',
+                    data: 'Numero'
+                },
+                {
+                    title: 'Tipo',
+                    data: 'Tipo'
+                }
+            ],
+        });
 
-function myFunction() {
-    min = document.getElementById('inicio').value;
-    max = document.getElementById('fim').value;
-}    
+        $('#min, #max').keyup(function () {
+            table.draw();
+        });
+    }
+});
